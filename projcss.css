@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 10px;;
+    border: 10px darkslateblue;
+  }
+  h1,h2{text-align: center;}
+  body{
+    background-image: url("fff.gif"), url("fff.gif");
+  
+}
+  div{
+    background-color: darkgrey;
+
+}
+h1,p {
+    color: #f80808;
+}
+#em{
+    background-color: rgb(255, 0, 0);
+}
+h1,h2 {color: blueviolet;}
